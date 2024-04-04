@@ -1,6 +1,5 @@
 package com.ezen.git;
 
-public class some {
-
+public class Car {
 
 }
